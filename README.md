@@ -2,4 +2,4 @@
 
 Soy una desarrolladora frontend enfocada en javascript y react, Women Techmakers Ambassador en la ciudad de méxico, miembro del GDGCloudMX
 
-Software engineer en @Runahr 👩🏻‍💻| CSS Lover 🎨| Karateca 🥋
+Software Engineer en @Runahr 👩🏻‍💻| CSS Lover 🎨| Karateca 🥋

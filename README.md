@@ -1,5 +1,5 @@
-### Hola! Soy Paula Sanchez, Desarrolladora e ingeniera mecatronica 👋
+### Hello I'm Paula! 👋
 
-Soy una desarrolladora frontend enfocada en javascript y react, Women Techmakers Ambassador en la ciudad de méxico y organizadora del GDGCloudMX
+Colombian 🇨🇴 based in Mexico, I'm passionate about digital products, startup & tech culture, always focused on solving real problems for the users and making the web more colourful and accessible for anyone.
 
-React Engineer en @Bitso | ex @Runahr | 👩🏻‍💻 | CSS Lover 🎨 | Karateca 🥋 | Youtuber
+former @Bitso, @Runahr 👩🏻‍💻 | CSS Lover 🎨 | Karateca 🥋 | Youtuber
